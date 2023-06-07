@@ -22,7 +22,7 @@ The `evaluation_results/` folder includes the evaluation results obtained from t
 
 To get started with the QUEST teaching method and utilize the resources in this repository, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/yourusername/QUEST.git`
+1. Clone the repository: `git clone https://github.com/UKPLab/QUEST.git`
 2. Navigate to the `quiz_templates/` folder to access the quiz templates.
 3. Review the PDF files in the `quiz_templates/` folder to understand the structure and design of the quizzes created using the QUEST teaching method.
 4. Use the quiz templates as a reference or starting point for creating your own quizzes, customizing them to suit your lecture content and teaching objectives.
