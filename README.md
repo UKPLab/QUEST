@@ -36,6 +36,14 @@ Contributions to the QUEST teaching method are welcome! If you have ideas for im
 
 The QUEST repository is released under the [GNU General Public Licence](https://www.gnu.org/licenses/). You are free to use, modify, and distribute the quiz templates and evaluation results in this repository, while giving appropriate credit to the original authors.
 
+```
+@unpublished{arnold2023quest,
+  title={QUEST: Quizzes Utilizing Engaging StoryTelling},
+  author={Arnold, Thomas*},
+  year={2023},
+}
+```
+
 ## Contact
 
 If you have any questions, suggestions, or feedback regarding the QUEST teaching method or this repository, please feel free to contact us at thomas_otmar.arnold@tu-darmstadt.de. We appreciate your interest and look forward to hearing from you!
