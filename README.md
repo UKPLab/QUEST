@@ -43,7 +43,7 @@ Please use the following citation:
 ```
 @unpublished{arnold2023quest,
   title={QUEST: Quizzes Utilizing Engaging StoryTelling},
-  author={Arnold, Thomas*},
+  author={Arnold, Thomas},
   year={2023},
 }
 ```
