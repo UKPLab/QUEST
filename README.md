@@ -50,6 +50,12 @@ Please use the following citation:
 
 ## Contact
 
-If you have any questions, suggestions, or feedback regarding the QUEST teaching method or this repository, please feel free to contact us at thomas_otmar.arnold@tu-darmstadt.de. We appreciate your interest and look forward to hearing from you!
+Contact person: Thomas Arnold, thomas_otmar.arnold@tu-darmstadt.de
+
+If you have any questions, suggestions, or feedback regarding the QUEST teaching method or this repository, please feel free to contact us. We appreciate your interest and look forward to hearing from you!
+
+https://www.ukp.tu-darmstadt.de/
+
+https://www.tu-darmstadt.de/
 
 Happy questing!
