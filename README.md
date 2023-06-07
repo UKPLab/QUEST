@@ -34,7 +34,7 @@ Contributions to the QUEST teaching method are welcome! If you have ideas for im
 
 ## License
 
-The QUEST repository is released under the [GNU General Public Licence](https://www.gnu.org/licenses/). You are free to use, modify, and distribute the quiz templates and evaluation results in this repository, while giving appropriate credit to the original authors.
+The QUEST repository is released under the [MIT License](https://opensource.org/licenses/MIT). You are free to use, modify, and distribute the quiz templates and evaluation results in this repository, while giving appropriate credit to the original authors.
 
 ## Citation
 
