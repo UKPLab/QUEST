@@ -40,11 +40,13 @@ The QUEST repository is released under the [GNU General Public Licence](https://
 
 Please use the following citation:
 
+...
 @unpublished{arnold2023quest,
   title={QUEST: Quizzes Utilizing Engaging StoryTelling},
   author={Arnold, Thomas*},
   year={2023},
 }
+...
 
 ## Contact
 
